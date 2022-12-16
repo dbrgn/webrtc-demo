@@ -54,7 +54,7 @@ dependencies {
     implementation "androidx.compose.ui:ui-tooling-preview:$compose_ui_version"
     implementation 'androidx.compose.material:material:1.3.1'
     implementation "androidx.compose.runtime:runtime-livedata:$compose_ui_version"
-    implementation 'dev.bargen:webrtc-android:107.0.0'
+    implementation 'dev.bargen:webrtc-android:108.0.0'
 
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.4'
